@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 
 ### About me
-Hi, I'm Deniss Sutugins, a backend engineer from Latvia🇳. Currently, I am studying for a master's degree. Dedicated to become fullstack engineer.
+Hi, I'm Deniss Sutugins, a backend engineer from Latvia. Currently, I am studying for a master's degree. Dedicated to become fullstack engineer.
 
 ### Languages
 
