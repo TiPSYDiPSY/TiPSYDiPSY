@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TiPSYDiPSY
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning python
-
-### About me
-Hi, I'm Deniss Sutugins, a backend engineer from Latvia. Currently, I am studying for a master's degree. Dedicated to become fullstack engineer.
-
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
